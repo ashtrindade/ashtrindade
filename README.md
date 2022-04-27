@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashtrindade
+- 👋 Hi, I’m Ash Trindade
 - 🎮 I’m interested in game development 
-- ☕ I’m currently learning javascript and python
+- ☕ I’m currently working on Discord bots with focus on accessibility
 
 <!---
 ashtrindade/ashtrindade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
