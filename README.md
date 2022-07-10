@@ -1,9 +1,8 @@
 
 # Hi, I'm Ash! 🌈
-[![porfolio](https://img.shields.io/badge/-Portfolio-2e9cab)](https://ashtrindade.github.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-@onlyashd-blue)](https://www.twitter.com/onlyashd)
-[![kaggle](https://img.shields.io/badge/Datasets-Kaggle-9cf)](https://www.kaggle.com/ashtrindade/datasets)
-[![huggingface](https://img.shields.io/badge/Models-Hugging%20Face-yellowgreen)](https://huggingface.co/ashtrindade)
+[![kaggle](https://img.shields.io/badge/Datasets-Kaggle-37bae8)](https://www.kaggle.com/ashtrindade/datasets)
+[![rapidapi](https://img.shields.io/badge/APIs-RapidAPI-1d4371)](https://rapidapi.com/user/ashtrindade)
+[![huggingface](https://img.shields.io/badge/Models-Hugging%20Face-ffd21e)](https://huggingface.co/ashtrindade)
 ---
 
 ### About me
