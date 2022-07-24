@@ -7,8 +7,6 @@
 <a href="https://huggingface.co/ashtrindade"><img src="https://img.shields.io/badge/Models-Hugging%20Face-ffd21e"></a>
 </p>
 
----
-
 ### About me:
 🌎 I live in Brazil. <br>
 💻 I'm currently working on Discord bots with focus on accessibility. <br>
