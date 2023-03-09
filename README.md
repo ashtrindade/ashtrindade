@@ -1,13 +1,36 @@
-# Hi, I'm Ash! 
-### About me:
-🌎 I live in Brazil. <br>
-💻 I'm currently working on Discord bots with focus on accessibility. <br>
-🧠 I'm currently learning Javascript. <br>
+# About me
+😊 He/She pronouns <br>
+🌎 I live in Brazil
 
-### Find me on:
+>_My goal is to make the web accessible to everyone. Passion for game development, coffee and cats._ ❤
+
+## Technologies:
 <p>
-<a href="https://www.kaggle.com/ashtrindade/datasets"><img src="https://img.shields.io/badge/Datasets-Kaggle-37bae8" alt="Dataasets - kaggle"></a>
-<a href="https://rapidapi.com/user/ashtrindade"><img src="https://img.shields.io/badge/APIs-RapidAPI-1d4371" alt="APIs - Rapid Api"></a>
+  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Jest-%23C21325?style=plastic&logo=jest&logoColor=white" alt="Jest">
 </p>
 
+## Interests:
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=plastice&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=plastic&logo=unity&logoColor=white" alt="Unity"> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+</p>
 
+## Find me:
+<p>
+  <a href="https://rapidapi.com/user/ashtrindade"><img src="https://img.shields.io/badge/Rapid%20API-035a7d?style=plastic&logo=fastapi&logoColor=white" alt="Rapid Api"></a>
+  <a href="https://www.kaggle.com/ashtrindade/datasets"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://discord.gg/JSjPhFzxmx"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"></a> 
+</p>
