@@ -19,8 +19,8 @@
 
 ## Interests:
 <p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Android%20Studio-%234ea94b.svg?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Android-%234ea94b?style=plastic&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=plastic&logo=unrealengine&logoColor=white" alt="Unreal Engine">
