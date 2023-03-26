@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Jest-%23C21325?style=plastic&logo=jest&logoColor=white" alt="Jest">
 </p>
 
 ## Interests:
