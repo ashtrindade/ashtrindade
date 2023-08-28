@@ -14,6 +14,6 @@
 
 ## Stats
 <p>
-  <img height="180em" alt="Ash Trindade's stats" src="https://github-readme-stats.vercel.app/api?username=ashtrindade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtrindade&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
+  <img height="180em" alt="Ash's stats" src="https://github-readme-stats.vercel.app/api?username=ashtrindade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtrindade&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
 </p>
