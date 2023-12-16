@@ -2,9 +2,9 @@
 😊 He/She pronouns <br>
 🌎 I live in Brazil
 
-- 🔭 I’m currently working on **Accessibility apps**
-- 🌱 I’m currently learning **React Native**
-- 🐧 Penguin fact: **while penguins can't fly, they can jump out of the water up to 9ft in the air.**
+- ♿ I’m currently working on **Accessibility apps**
+- ⚛️ I’m currently learning **React Native**
+- 🐈 Cat fact: **A house cat can reach speeds of up to 48 km/h**
 
 ## Languages and Tools
 <p>
