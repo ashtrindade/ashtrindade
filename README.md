@@ -2,7 +2,7 @@
 😊 He/She pronouns <br>
 🌎 I live in Brazil
 
-- ♿ I’m currently working on **Accessibility apps**
+- ♿ I’m currently working on **Accessibility apps** at **[Luna](https://github.com/LunaCrew)**.
 - ⚛️ I’m currently learning **React Native**
 - 🐈 Cat fact: **A house cat can reach speeds of up to 48 km/h**
 
