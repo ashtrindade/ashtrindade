@@ -10,15 +10,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-
 ![Android](https://img.shields.io/badge/Android-000000.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
