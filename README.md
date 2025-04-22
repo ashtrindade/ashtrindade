@@ -1,8 +1,7 @@
 # About me
 
 - 🌎 I live in Brazil
-- ♿ Currently working on **Accessibility apps** at **[Luna](https://github.com/LunaCrew)**.
-- 🎮 Developing games at **[Orange Cat Studios](https://github.com/orangecatstudios)**.
+- 🎮 Developing games at **[Orange Cat Studios](https://store.steampowered.com/developer/orangecatstudios)**.
 - 🐈 Cat fact: **A house cat can reach speeds of up to 48 km/h**
 
 ## Languages and Tools
